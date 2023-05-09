@@ -96,6 +96,11 @@ Output will look something  like this:
 ![image](https://github.com/gra2378/flaskml/assets/133028180/44df0509-81c5-4ddb-8611-0ef1d1b5a4d8)
 ![image](https://github.com/gra2378/flaskml/assets/133028180/65f2d1d9-91e1-430b-a95e-be7bc1b2792e)
 
+## GitHub Actions
+
+
+
+![image](https://github.com/gra2378/flaskml/assets/133028180/f89d8cc3-c128-4913-857b-94c8d9b41551)
 
 ##Create the app service, deploy app, and verify that it has been deployed
   az webapp up -n <your-appservice>
