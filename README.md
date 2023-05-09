@@ -107,7 +107,7 @@ Verify that tests passed:
 ![image](https://github.com/gra2378/flaskml/assets/133028180/f89d8cc3-c128-4913-857b-94c8d9b41551)
 
 ## Create the app service, deploy app, and verify that it has been deployed
-  az webapp up -n <your-appservice>
+  az webapp up -n (your-appservice)
   for example mine was:
   az webapp up -n flask-ml-serv-d
   
