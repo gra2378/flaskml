@@ -97,7 +97,9 @@ Output will look something  like this:
 ![image](https://github.com/gra2378/flaskml/assets/133028180/65f2d1d9-91e1-430b-a95e-be7bc1b2792e)
 
 ## GitHub Actions
+
 Enable GitHub Acctins and Create yml file
+
 ![image](https://github.com/gra2378/flaskml/assets/133028180/dd30a221-afa9-40ac-855d-94483286f7f6)
 
 Verify that tests passed:
