@@ -93,7 +93,9 @@ make install
   
 Output will look something  like this:
   
-  ![image](https://user-images.githubusercontent.com/120996688/236907997-c3b5c2b7-6e47-4036-8004-25903ce5fc22.png)
+![image](https://github.com/gra2378/flaskml/assets/133028180/44df0509-81c5-4ddb-8611-0ef1d1b5a4d8)
+![image](https://github.com/gra2378/flaskml/assets/133028180/65f2d1d9-91e1-430b-a95e-be7bc1b2792e)
+
 
 ##Create the app service, deploy app, and verify that it has been deployed
   az webapp up -n <your-appservice>
