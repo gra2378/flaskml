@@ -82,6 +82,9 @@ Navigate into the folder inside of the github repo and type the following comman
 python3 -m venv ~/.(name of repo)
   
 source ~/.(name of repo)/bin/activate
+
+![image](https://github.com/gra2378/flaskml/assets/133028180/03f0d17d-ce6c-4eaa-a5e8-3b148f59bb97)
+
   
 ## Run Make Install
   
