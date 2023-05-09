@@ -61,6 +61,13 @@ git clone git@github.com:gra2378/flaskml.git
 
 Are you sure you want to continue connecting?  yes
 
+test a change within Azure CLI:
+
+![image](https://github.com/gra2378/flaskml/assets/133028180/21394360-faab-40e2-8409-dbf883a135ff)
+
+![image](https://github.com/gra2378/flaskml/assets/133028180/3adc0ab5-dc26-484f-9a67-48ce8e4eaa26)
+![image](https://github.com/gra2378/flaskml/assets/133028180/133fa96b-f16c-429e-8aef-f50c2f0f69fd)
+
 ## Set up virtual environment
 
 Navigate into the folder inside of the github repo and type the following commands
