@@ -38,6 +38,8 @@ enter, enter, enter
 
 
 cat /home/odl_user/.ssh/id_rsa.pub 
+![image](https://github.com/gra2378/flaskml/assets/133028180/87344aa2-a98e-4aa0-b8f4-8739eb29e7d2)
+
 
 
 ## Clone Project into Azure Cloud Shell
