@@ -1,5 +1,5 @@
 setup:
-	python3 -m venv ~/.udacity-devops
+	python3 -m venv ~/.flaskml
 
 install:
 	pip install --upgrade pip &&\
