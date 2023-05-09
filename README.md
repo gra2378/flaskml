@@ -97,12 +97,14 @@ Output will look something  like this:
 ![image](https://github.com/gra2378/flaskml/assets/133028180/65f2d1d9-91e1-430b-a95e-be7bc1b2792e)
 
 ## GitHub Actions
+Enable GitHub Acctins and Create yml file
+![image](https://github.com/gra2378/flaskml/assets/133028180/dd30a221-afa9-40ac-855d-94483286f7f6)
 
-
+Verify that tests passed:
 
 ![image](https://github.com/gra2378/flaskml/assets/133028180/f89d8cc3-c128-4913-857b-94c8d9b41551)
 
-##Create the app service, deploy app, and verify that it has been deployed
+## Create the app service, deploy app, and verify that it has been deployed
   az webapp up -n <your-appservice>
   for example mine was:
   az webapp up -n flask-ml-serv-d
@@ -113,7 +115,7 @@ Output will look something  like this:
   
   ![image](https://user-images.githubusercontent.com/120996688/236912797-0ef0dd37-a3b9-4e4e-8c6c-ca61cc3aae01.png)
 
-  ##Perform a prediction
+  ## Perform a prediction
   
   In your GitHub Repo, go to make_predict_azure_app.sh.  Change the following line to the name of your app:
   
