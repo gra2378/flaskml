@@ -108,14 +108,20 @@ Verify that tests passed:
 
 ## Create the app service, deploy app, and verify that it has been deployed
   az webapp up -n (your-appservice)
-  for example mine was:
+  
+  For example mine was, but I added a resource group.
+  
   az webapp up -n flask-ml-serv-d
+  
+  ![image](https://github.com/gra2378/flaskml/assets/133028180/07edff04-b1b2-46fd-a43f-d57de97c0785)
+
   
   Go to https://(your appservice).azurewebsites.net/
   
   It will look something like this:
   
-  ![image](https://user-images.githubusercontent.com/120996688/236912797-0ef0dd37-a3b9-4e4e-8c6c-ca61cc3aae01.png)
+  ![image](https://github.com/gra2378/flaskml/assets/133028180/12021a6f-f73b-4cf1-9b5c-fe3f165376c3)
+
 
   ## Perform a prediction
   
