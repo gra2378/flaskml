@@ -44,6 +44,10 @@ cat /home/odl_user/.ssh/id_rsa.pub
 
 ## Clone Project into Azure Cloud Shell
 
+Go to your repo in Gitbhub and copy the Clone with SSH Key
+![image](https://github.com/gra2378/flaskml/assets/133028180/de8ff4ea-e108-4977-a399-337787d58c25)
+
+
 In Azure CLI in a folder of your choosing 
 git clone git@github.........
 
