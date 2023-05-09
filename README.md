@@ -158,6 +158,10 @@ Port: 443
 * Output of streamed log files from deployed application
 
 > 
+## Create Pipeline in Azure devops
+![image](https://github.com/gra2378/flaskml/assets/133028180/a27b20ef-9649-4c94-b05e-9d1a61b81f06)
+
+
 
 ## Enhancements
 
