@@ -159,9 +159,15 @@ Port: 443
 
 > 
 ## Create Pipeline in Azure devops
+![image](https://github.com/gra2378/flaskml/assets/133028180/7c327121-74f8-4f7c-80b8-9d280971ebaf)
+
+![image](https://github.com/gra2378/flaskml/assets/133028180/bea30495-ad6f-480f-8751-9f56aa9a0dc0)
+
 ![image](https://github.com/gra2378/flaskml/assets/133028180/a27b20ef-9649-4c94-b05e-9d1a61b81f06)
 
+![image](https://github.com/gra2378/flaskml/assets/133028180/864a82db-d97a-438e-81a1-62a3d86dc8df)
 
+![image](https://github.com/gra2378/flaskml/assets/133028180/74e22a84-b8f6-4bf3-b47c-dd1f66a448ff)
 
 ## Enhancements
 
