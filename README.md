@@ -49,7 +49,9 @@ Go to your repo in Gitbhub and copy the Clone with SSH Key
 
 
 In Azure CLI in a folder of your choosing 
-git clone git@github.........
+git clone git@github.com:gra2378/flaskml.git
+
+![image](https://github.com/gra2378/flaskml/assets/133028180/008ebb05-035f-4203-b2a3-2d033e868065)
 
 Are you sure you want to continue connecting?  yes
 
